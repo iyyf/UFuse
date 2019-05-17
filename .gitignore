@@ -1,0 +1,14 @@
+*.[jpg]
+*.[tif]
+*.[txt]
+.idea/
+videos/
+result/
+__pycache__/
+.pyc
+myGpuFeatures/
+datasets/
+back_up_different_methods/
+myGpuFeatures.zip
+nets/
+our_method/
